@@ -2,8 +2,8 @@ using UnityEngine;
 
 public class CameraMov : MonoBehaviour
 {
-    public float sensX;
-    public float senY;
+    public float sensX = 400;
+    public float senY = 400;
 
     public Transform orientation;
 
